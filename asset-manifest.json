@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.35d4430f.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f4c6cda5.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f4c6cda5.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.269ddcdb.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.269ddcdb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/React-Portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ff8a14c8.chunk.js": "/React-Portfolio/static/js/2.ff8a14c8.chunk.js",
+    "static/js/2.ff8a14c8.chunk.js.map": "/React-Portfolio/static/js/2.ff8a14c8.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/React-Portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.35d4430f.chunk.css.map": "/React-Portfolio/static/css/main.35d4430f.chunk.css.map",
+    "static/js/2.ff8a14c8.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.ff8a14c8.chunk.js.LICENSE.txt",
+    "static/media/Eat-Da-Burger-App.af7a3973.png": "/React-Portfolio/static/media/Eat-Da-Burger-App.af7a3973.png",
+    "static/media/Git_hub_logo.65acb5b5.jpg": "/React-Portfolio/static/media/Git_hub_logo.65acb5b5.jpg",
+    "static/media/MyPicture.ffc0b27f.jpg": "/React-Portfolio/static/media/MyPicture.ffc0b27f.jpg",
+    "static/media/Play't_Safe.17d7de50.png": "/React-Portfolio/static/media/Play't_Safe.17d7de50.png",
+    "static/media/SE.591466fd.jpeg": "/React-Portfolio/static/media/SE.591466fd.jpeg",
+    "static/media/App.css": "/React-Portfolio/static/media/background.e887c5a2.png",
+    "static/media/note_img.072ec101.jpg": "/React-Portfolio/static/media/note_img.072ec101.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269ddcdb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ff8a14c8.chunk.js",
+    "static/css/main.35d4430f.chunk.css",
+    "static/js/main.f4c6cda5.chunk.js"
+  ]
+}
